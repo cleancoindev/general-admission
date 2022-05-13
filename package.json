@@ -30,7 +30,7 @@
   "dependencies": {
     "@audius/fetch-nft": "^0.1.5",
     "@audius/libs": "1.2.30",
-    "@solana/spl-token": "^0.1.8",
+    "@solana/spl-token": "^0.2.0",
     "@solana/web3.js": "^1.30.2",
     "abort-controller": "^3.0.0",
     "cors": "^2.8.5",
