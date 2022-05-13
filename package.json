@@ -31,7 +31,7 @@
     "@audius/fetch-nft": "^0.1.5",
     "@audius/libs": "1.2.30",
     "@solana/spl-token": "^0.1.8",
-    "@solana/web3.js": "^1.30.2",
+    "@solana/web3.js": "^1.39.1",
     "abort-controller": "^3.0.0",
     "cors": "^2.8.5",
     "ethereumjs-tx": "^2.1.0",
